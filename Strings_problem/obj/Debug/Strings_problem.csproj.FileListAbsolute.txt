@@ -1,0 +1,8 @@
+C:\Users\divya\source\repos\Strings_problem\obj\Debug\Strings_problem.csproj.AssemblyReference.cache
+C:\Users\divya\source\repos\Strings_problem\obj\Debug\Strings_problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\divya\source\repos\Strings_problem\obj\Debug\Strings_problem.csproj.CoreCompileInputs.cache
+C:\Users\divya\source\repos\Strings_problem\bin\Debug\Strings_problem.exe.config
+C:\Users\divya\source\repos\Strings_problem\bin\Debug\Strings_problem.exe
+C:\Users\divya\source\repos\Strings_problem\bin\Debug\Strings_problem.pdb
+C:\Users\divya\source\repos\Strings_problem\obj\Debug\Strings_problem.exe
+C:\Users\divya\source\repos\Strings_problem\obj\Debug\Strings_problem.pdb
